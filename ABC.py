@@ -16,3 +16,14 @@ class NewWindow(QMainWindow):
         # Load the Home Window UI design from file
         uic.loadUi("./basic.ui", self)
         self.show()
+        
+def main():
+    # Define the PyQT5 application object
+    app = QApplication([])
+
+    # Create the main window and show it
+    tw = NewWindow()
+    tw.show()
+
+    # Start the PyQT5 app
+    app.exec_()

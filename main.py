@@ -43,7 +43,7 @@ def shodanFunc():
     print("Ports: ", port)
 
 
-def readFile():
+#def readFile():
     
 menu()
 option = int(input("Enter your option: "))

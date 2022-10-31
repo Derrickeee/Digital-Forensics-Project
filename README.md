@@ -1,8 +1,2 @@
-# Digital-Forensics-Project
+# GOLOOKUP
 
-We are doing a project on Digital Forensics.
-Things to do:
-- Coding
-- User manual
-- Poster
-- Video
